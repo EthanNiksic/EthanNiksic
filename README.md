@@ -20,25 +20,15 @@ I enjoy troubleshooting complex problems, understanding how systems work, and tu
 
 ## Technical Skills
 
-Languages
+**Languages**
+- C#
+- Python
+- JavaScript
+- SQL
 
-C#
-Python
-JavaScript
-SQL
-
-Web
-
-HTML
-CSS
-
-Frameworks & Technologies
-
-.NET
-ASP.NET MVC
-REST APIs
-JSON
-MySQL
+**Web**
+- HTML
+- CSS
 
 **Frameworks & Technologies**
 - .NET
@@ -71,7 +61,7 @@ Ranken Technical College
 
 ## Currently Learning
 
-- Modern .NET development
+- Modern C# / .NET development
 - Full-stack web development
 - Software architecture
 - Testing and debugging
