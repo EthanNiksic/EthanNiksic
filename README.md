@@ -20,13 +20,25 @@ I enjoy troubleshooting complex problems, understanding how systems work, and tu
 
 ## Technical Skills
 
-**Languages**
-- C#
-- SQL
-- Python
-- HTML
-- CSS
-- JavaScript
+Languages
+
+C#
+Python
+JavaScript
+SQL
+
+Web
+
+HTML
+CSS
+
+Frameworks & Technologies
+
+.NET
+ASP.NET MVC
+REST APIs
+JSON
+MySQL
 
 **Frameworks & Technologies**
 - .NET
