@@ -1,5 +1,4 @@
 # Ethan Niksic
-
 ### Application Support Specialist → Software Developer
 
 I'm an Application Support Specialist with nearly two years of experience working with enterprise software, production codebases, databases, and system integrations.
@@ -8,66 +7,45 @@ My goal is to transition into a Junior Software Developer role while completing 
 
 I enjoy troubleshooting complex problems, understanding how systems work, and turning those experiences into better software.
 
-## Current Focus
+## Featured Projects
 
-- Building full-stack applications
-- Backend development with C# and .NET
-- REST API development and integration
-- SQL and relational database design
-- Data structures and algorithms
-- Software engineering fundamentals
-- Expanding my knowledge through personal and academic projects
+**[code-review-ai](https://github.com/EthanNiksic/code-review-ai)** — C# / .NET 10  
+CLI tool that fetches GitHub pull request diffs and generates automated review comments via the OpenAI API. Handles oversized diffs by splitting on file boundaries and batching requests. Unit tested with xUnit.
 
 ## Technical Skills
 
 **Languages**
-- C#
-- Python
-- JavaScript
-- SQL
-
-**Web**
-- HTML
-- CSS
+* C#
+* SQL
+* Python
 
 **Frameworks & Technologies**
-- .NET
-- ASP.NET MVC
-- REST APIs
-- JSON
-- MySQL
+* .NET
+* ASP.NET MVC
+* REST APIs
+* JSON
+* MySQL
 
 **Tools & Practices**
-- Git / GitHub
-- Jira
-- ServiceNow
-- Root-cause analysis
-- Data validation
-- System integration
+* Git / GitHub
+* xUnit / unit testing
+* Root-cause analysis
+* Data validation
+* System integration
+* Jira / ServiceNow
 
-## Featured Projects
+## Current Focus
 
-Projects I'm building and improving as I transition into software development.
-
- Projects currently being organized and developed.
+* Backend development with C# and .NET
+* REST API development and integration
+* SQL and relational database design
+* Testing, debugging, and software architecture
+* Data structures and algorithms
 
 ## Education
 
-**B.S. Computer Science** — In Progress  
+**B.S. Computer Science**  
 Maryville University
 
 **A.A.S. Web & Application Development** — 2025  
 Ranken Technical College
-
-## Currently Learning
-
-- Modern C# / .NET development
-- Full-stack web development
-- Software architecture
-- Testing and debugging
-- Data structures & algorithms
-- Cloud technologies
-
-## Connect
-
-(https://www.linkedin.com/in/ethanniksic/)
